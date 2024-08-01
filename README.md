@@ -1,4 +1,4 @@
-# DAPP - Blockchain web based chatting app.
+# Blockchain web based chatting app.
 
 Landing Page
 
@@ -7,10 +7,6 @@ Landing Page
 Login Page
 
 ![image](https://github.com/VirenAgicha/DAPP/assets/92181605/a0b34de4-bfe8-49e0-a4a6-114fbf70ee8d)
-
-Find Friends
-
-![image](https://github.com/VirenAgicha/DAPP/assets/92181605/5b2dc772-d228-4512-ba4f-130ab7f93673)
 
 Chat Interface
 
